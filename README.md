@@ -1,4 +1,4 @@
-#first-day
+# first-day
 
 A copy of the Kitty Quest project.
 
