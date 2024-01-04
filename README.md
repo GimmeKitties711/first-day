@@ -2,4 +2,4 @@
 
 A copy of the Kitty Quest project.
 
-![Example screenshot](assets/images/Kitty_Quest_page.png)
+![Example screenshot](assets/images/Kitty_Quest.png)
